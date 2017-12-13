@@ -10,6 +10,7 @@ html {
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
+  font-family: 'Crimson Text', serif;
 
   color: #222;
 }
@@ -24,6 +25,7 @@ article {
 
 article h1 {
   font-weight: normal;
+  margin:
 }
 
 article header {
@@ -42,6 +44,7 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  padding: 0 1rem;
 }
 
 .quote {
